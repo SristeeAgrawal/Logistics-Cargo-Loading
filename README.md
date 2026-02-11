@@ -24,5 +24,6 @@ This project implements an optimized cargo-loading system using the 0/1 Knapsack
 Nandika Agarwal, Sristee Agrawal, Shreya Agarwal, Anushka Rana
 
 **Author**
+
 Sristee Agrawal
 
